@@ -153,7 +153,7 @@ async def loopStart():
 
 
 if __name__ == "__main__":
-  client.run('MTAwODU0Mjk4NjQ2MTc3Mzk0NQ.Gqqnr0.3M4SvEu6BffnNNZeWzjagxyth3J3oWKwQVxBbM')
+  client.run('TOKEN')
 
 
 
