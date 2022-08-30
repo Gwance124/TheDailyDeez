@@ -80,5 +80,5 @@ async def on_message(message):
         wordsIdx += 1
         return
 
-client.run('MTAwODU0Mjk4NjQ2MTc3Mzk0NQ.Gqqnr0.3M4SvEu6BffnNNZeWzjagxyth3J3oWKwQVxBbM')
+client.run('TOKEN')
 fileA.close()
